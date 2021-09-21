@@ -17,7 +17,7 @@
 </p> 
 
 
-# DataScience_Interview_Questions 
+# Data_Science_Interview_Questions 
 
 ## Introduction 👋
 
@@ -66,7 +66,7 @@ Go [here](https://github.com/milaan9/DataScience_Interview_Questions) if you are
 
 1. Go [here](https://github.com/milaan9/DataScience_Interview_Questions) if you aren't here already.
     
-2. Click the big green "Clone" button in the top right of the page, then click "[Download ZIP](https://github.com/milaan9/DataScience_Interview_Questions/archive/refs/heads/main.zip)".
+2. Click the big green "Code" button in the top right of the page, then click "[Download ZIP](https://github.com/milaan9/DataScience_Interview_Questions/archive/refs/heads/main.zip)".
 
     ![Download ZIP](img/dnld_rep.png) 
 
