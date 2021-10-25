@@ -47,7 +47,8 @@ Feel free to send me a pull request if you find any mistakes or have better answ
 | 07 | **[07_Product_Metrics](https://github.com/milaan9/DataScience_Interview_Questions/blob/main/07_Product_Metrics.ipynb)** |
 | 08 | **[08_Communication](https://github.com/milaan9/DataScience_Interview_Questions/blob/main/08_Communication.ipynb)** |
 | 09 | **[09_Coding](https://github.com/milaan9/DataScience_Interview_Questions/blob/main/09_Coding.ipynb)** |
-| 10 | **[DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions/blob/main/DataScience_Interview_Questions.pdf)** |
+| 10 | **[10_Linkedin_Skill_Assessment_Python](https://github.com/milaan9/DataScience_Interview_Questions/blob/main/10_Linkedin_Skill_Assessment_Python.ipynb)** |
+| 11 | **[DataScience_Interview_Questions](https://github.com/milaan9/DataScience_Interview_Questions/blob/main/DataScience_Interview_Questions.pdf)** |
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/DataScience_Interview_Questions/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
