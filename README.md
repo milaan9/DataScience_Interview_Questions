@@ -24,9 +24,9 @@
 
 Here are the answers to [120 Data Science Interview Questions](http://www.datasciencequestions.com/)
 
-The above answer some is modified based on Kojin's original collection [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+The above answer some is modified based on Kojin's original collection: [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
-Another solution is from [Nitish-McQueen](https://github.com/Nitish-McQueen): [Data Science Interview Questions](./DataScience_Interview_Questions.pdf)
+Another solution is from: [Nitish-McQueen](https://github.com/Nitish-McQueen): [Data Science Interview Questions](./DataScience_Interview_Questions.pdf)
 
 Quera has a good list of questions: [https://datascienceinterview.quora.com/Answers-1](https://datascienceinterview.quora.com/Answers-1)
 
